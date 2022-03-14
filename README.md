@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-  Hello, I'm Mehmet.
+✨  Hello, I'm Mehmet.
 
  I am a student at Istanbul Technical University Petroleum and Natural Gas Engineering Department.
  I like to improve myself in every way and to be value-added. I have a very social personality, 
@@ -19,9 +19,9 @@ Here are some ideas to get you started:
  turning the variable conditions into an advantage, acting as a team and acting as a whole, in most of my life
 
  I took part in many voluntary activities through associations or sports clubs. I like to take part in volunteer 
- activities and do good deeds without any self-interest.
+ activities and do good deeds without any self-interest.👋
 
-Merhabalar, ben Mehmet.
+✨ Merhabalar, ben Mehmet.
 
   İstanbul Teknik Üniversitesi Petrol ve Doğalgaz Mühendisliği bölümünde öğrenciyim. kendimi her yönden geliştirmeyi katma değer odaklı olmayı seviyorum.
  Oldukça sosyal bir kişiliğe sahibim bu durum bulunduğum ortamlara çabuk adapte olmayı ve ekip çalışmalarında uyumlu olmamı kolaylaştırıyor.
@@ -34,4 +34,4 @@ Merhabalar, ben Mehmet.
  ve bir bütün şeklinde hareket etmeyi hayatımın büyük bir kısmında uygulamayı seviyorum
 
  Bir çok gönüllü faaliyette dernekler ya da spor kulüpleri aracılığıyla yer aldım. Gönüllü faaliyetlerde yer almayı 
- çıkar gözetmeden iyilik yapmayı seviyorum.
+ çıkar gözetmeden iyilik yapmayı seviyorum.👋
